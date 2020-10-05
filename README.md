@@ -1,5 +1,7 @@
 # SmartLabsUniminuto
-Code for VPS at SmartLabsUniminuto (IP:204.93.196.64) and Raspberry Pi. The main code has a sequence of scripts in Python and JavaScript. SmartLabsUniminuto is an initiative to develop remote laboratories for programming in Python and Raspberry Pi, given the currently contingency under the CoVid-19 pandemic. The key concept of the laboratory is Physical computing, you learn better programming if you interact with today devices as sensors or actuators.
+Code for VPS at SmartLabsUniminuto (IP:204.93.196.64) and Raspberry Pi. The main code has a sequence of scripts in Python and JavaScript. SmartLabsUniminuto is an initiative to develop remote laboratories for programming in Python and Raspberry Pi, given the currently contingency under the CoVid-19 pandemic. The key concept of the laboratory is Physical computing, you learn better programming if you interact devices as sensors or actuators.
+
+The user or learner can program in two modes: textual-based and visual (with graphical blocks: Blockly).
 
 <b>Developers:</b>
 
