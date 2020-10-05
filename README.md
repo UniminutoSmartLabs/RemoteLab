@@ -5,7 +5,7 @@ Code for VPS at SmartLabsUniminuto (IP:204.93.196.64) and Raspberry Pi. The main
 
 Prof. Jonathan Álvarez Ariza, Prof. Sergío Gonzalez Gil.
 
-Contact E-mails: segonzalez@uniminuto.edu, jalvarez@uniminuto.edu
+Contact E-mails: jalvarez@uniminuto.edu, segonzalez@uniminuto.edu
 
 Engineering Faculty
 
