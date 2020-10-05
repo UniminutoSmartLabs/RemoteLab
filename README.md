@@ -1,2 +1,12 @@
 # RemoteLab
-Code for VPS at RemoteLab and Raspberry Pi
+Code for VPS at SmartLabsUniminuto (IP:204.93.196.64) and Raspberry Pi. The main code has a sequence of scripts in Python and JavaScript.
+
+Developers:
+
+Prof. Jonathan Álvarez Ariza, Prof. Sergío Gonzalez Gil.
+
+Contact E-mails: segonzalez@uniminuto.edu, jalvarez@uniminuto.edu
+
+Engineering Faculty
+UNIMINUTO
+Bogotá, Colombia
