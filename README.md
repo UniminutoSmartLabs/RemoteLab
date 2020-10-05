@@ -1,5 +1,5 @@
-# RemoteLab
-Code for VPS at SmartLabsUniminuto (IP:204.93.196.64) and Raspberry Pi. The main code has a sequence of scripts in Python and JavaScript.
+# SmartLabsUniminuto
+Code for VPS at SmartLabsUniminuto (IP:204.93.196.64) and Raspberry Pi. The main code has a sequence of scripts in Python and JavaScript. SmartLabsUniminuto is an initiative to develop a remote laboratories for programming in Python and Raspberry Pi, given the currently contingency under the CoVid-19 pandemic. 
 
 <b>Developers:</b>
 
